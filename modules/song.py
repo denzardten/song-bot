@@ -10,7 +10,7 @@ from config import Config
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 ABS="Shop"
-APPER="shamilhabeeb"
+APPER="thetiktokshop"
 OWNER="Owner"
 GITCLONE="t.me/thetiktokshop"
 B2="t.me/denzard10"
