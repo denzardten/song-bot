@@ -13,7 +13,7 @@ ABS="Shop"
 APPER="thetiktokshop"
 OWNER="Owner"
 GITCLONE="t.me/thetiktokshop"
-B2="t.me/denzard10"
+B2="t.me/thetiktokshop"
 BUTTON1="Buy Tiktok Views"
 
 def time_to_seconds(time):
